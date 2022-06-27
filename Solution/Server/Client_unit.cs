@@ -1035,6 +1035,7 @@ DROP TABLE IF EXISTS journal_{text};";
             catch (System.IO.IOException ex) when (ex.Message.Contains("требуемое время"))
             {
                 string message = "OVERTIME . DISCONNECTED";
+                Console.WriteLine($"{db.User_name}: {message}");
                 Send(message);
             }
             catch (Exception ex)

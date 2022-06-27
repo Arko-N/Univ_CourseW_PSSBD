@@ -122,7 +122,7 @@ namespace Client
 
         private void FORM_main_VisibleChanged(object sender, EventArgs e)
         {
-            if (menu != null) menu.Visible = Visible;
+            if (menu != null && !menu.IsDisposed) menu.Visible = Visible;
         }
 
         private void BTN_menu_Click(object sender, EventArgs e)
@@ -200,19 +200,26 @@ namespace Client
 
         private string Send(string message)
         {
-            byte[] data = Encoding.Unicode.GetBytes(message); // преобразуем сообщение в массив байтов
-            stream.Write(data, 0, data.Length);               // отправка сообщения
-
-            // получаем ответ
-            data = new byte[64];                              // буфер для получаемых данных
             StringBuilder builder = new StringBuilder();
-            int bytes = 0;
-            do
+            byte[] data = Encoding.Unicode.GetBytes(message); // преобразуем сообщение в массив байтов
+            try
             {
-                bytes = stream.Read(data, 0, data.Length);
-                builder.Append(Encoding.Unicode.GetString(data, 0, bytes));
+                stream.Write(data, 0, data.Length);           // отправка сообщения
+
+                // получаем ответ
+                data = new byte[64];                          // буфер для получаемых данных
+                int bytes = 0;
+                do
+                {
+                    bytes = stream.Read(data, 0, data.Length);
+                    builder.Append(Encoding.Unicode.GetString(data, 0, bytes));
+                }
+                while (stream.DataAvailable);
             }
-            while (stream.DataAvailable);
+            catch
+            {
+                builder.Append("OVERTIME . DISCONNECTED");
+            }
 
             return builder.ToString();
         }
@@ -318,7 +325,7 @@ namespace Client
         public void C03_query()
         {
             Query("C03", "Count of barbers at districts", new[] { new KeyValuePair<string, string>("count", "count of Barbers"),
-                                                                  new KeyValuePair<string, string>("ownership", "Ownership")});
+                                                                  new KeyValuePair<string, string>("district", "district")});
         }
 
         /// <summary>
