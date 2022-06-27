@@ -155,11 +155,5 @@
   <ItemGroup>
     <Content Include="Hierarchical_scheme_1.ico" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Client\Client.csproj">
-      <Project>{d6bf9672-9227-4224-a8dc-617c5d60a7ae}</Project>
-      <Name>Client</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

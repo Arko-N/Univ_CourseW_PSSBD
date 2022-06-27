@@ -419,7 +419,6 @@ g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\System.Xml.XmlDocument.dll
 g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\System.Xml.XmlSerializer.dll
 g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\System.Xml.XPath.dll
 g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\System.Xml.XPath.XDocument.dll
-g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\Client.exe
 g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
 g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\Microsoft.Bcl.HashCode.dll
 g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -449,8 +448,6 @@ g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\System.Text.Encodings.Web.dll
 g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\System.Text.Json.dll
 g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\System.Threading.Tasks.Extensions.dll
 g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\System.ValueTuple.dll
-g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\Client.pdb
-g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\Client.exe.config
 g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
 g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\Microsoft.Bcl.HashCode.xml
 g:\Univ_CourseW_PSSBD\Solution\Server\bin\Release\Microsoft.EntityFrameworkCore.xml
