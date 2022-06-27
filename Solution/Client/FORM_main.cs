@@ -282,6 +282,8 @@ namespace Client
             TXT_title.Text = "";
             DGRID_table.Columns.Clear();
             DGRID_table.Rows.Clear();
+            groups.Hide();
+            menu.Close();
 
 #if DEBUG
             postgres = false;
@@ -600,6 +602,7 @@ namespace Client
             }
 
             MessageBox.Show(message);
+            C61_query();
         }
 
         /// <summary>
@@ -638,6 +641,7 @@ namespace Client
             }
 
             MessageBox.Show(message);
+            C61_query();
         }
 
         /// <summary>
@@ -675,6 +679,7 @@ namespace Client
                 }
 
                 MessageBox.Show(message);
+                C61_query();
             }
         }
 

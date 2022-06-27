@@ -20,7 +20,7 @@ namespace Client
 
         private void MENU_item_1_Click(object sender, EventArgs e) // Workers
         {
-
+            main_form.C61_query();
         }
     }
 }
