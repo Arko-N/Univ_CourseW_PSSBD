@@ -1,0 +1,643 @@
+D:\Downloads\P3SBD\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Downloads\P3SBD\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Downloads\P3SBD\Server\bin\Debug\Server.exe.config
+D:\Downloads\P3SBD\Server\bin\Debug\Server.exe
+D:\Downloads\P3SBD\Server\bin\Debug\Server.pdb
+D:\Downloads\P3SBD\Server\obj\Debug\Server.exe
+D:\Downloads\P3SBD\Server\obj\Debug\Server.pdb
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Downloads\P3SBD\Server\bin\Debug\netstandard.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.AppContext.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Collections.Concurrent.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Collections.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Collections.NonGeneric.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Collections.Specialized.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.ComponentModel.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Console.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Data.Common.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Diagnostics.Debug.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Diagnostics.Process.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Diagnostics.Tools.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Drawing.Primitives.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Dynamic.Runtime.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Globalization.Calendars.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Globalization.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Globalization.Extensions.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.IO.Compression.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.IO.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.IO.FileSystem.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.IO.Pipes.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Linq.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Linq.Expressions.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Linq.Parallel.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Linq.Queryable.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Net.Http.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Net.NameResolution.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Net.NetworkInformation.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Net.Ping.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Net.Primitives.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Net.Requests.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Net.Security.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Net.Sockets.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Net.WebSockets.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.ObjectModel.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Reflection.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Reflection.Extensions.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Reflection.Primitives.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Resources.Reader.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Resources.ResourceManager.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Resources.Writer.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Runtime.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Runtime.Extensions.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Runtime.Handles.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Runtime.InteropServices.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Runtime.Numerics.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Security.Claims.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Security.Principal.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Security.SecureString.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Text.Encoding.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Text.RegularExpressions.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Threading.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Threading.Overlapped.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Threading.Tasks.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Threading.Thread.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Threading.ThreadPool.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Threading.Timer.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Xml.XDocument.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Xml.XmlDocument.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Xml.XPath.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Npgsql.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Buffers.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Collections.Immutable.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Memory.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Text.Encodings.Web.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Text.Json.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\P3SBD\Server\bin\Debug\System.ValueTuple.dll
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Downloads\P3SBD\Server\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Downloads\P3SBD\Server\bin\Debug\Npgsql.xml
+D:\Downloads\P3SBD\Server\bin\Debug\System.Buffers.xml
+D:\Downloads\P3SBD\Server\bin\Debug\System.Collections.Immutable.xml
+D:\Downloads\P3SBD\Server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\P3SBD\Server\bin\Debug\System.Memory.xml
+D:\Downloads\P3SBD\Server\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\P3SBD\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\P3SBD\Server\bin\Debug\System.Text.Encodings.Web.xml
+D:\Downloads\P3SBD\Server\bin\Debug\System.Text.Json.xml
+D:\Downloads\P3SBD\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\P3SBD\Server\bin\Debug\System.ValueTuple.xml
+D:\Downloads\P3SBD\Server\obj\Debug\Server.exe.config
+D:\Downloads\P3SBD\Server\obj\Debug\Server.csproj.CopyComplete
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Server.exe.config
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Server.exe
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Server.pdb
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Win32.Primitives.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\netstandard.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.AppContext.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Collections.Concurrent.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Collections.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Collections.NonGeneric.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Collections.Specialized.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.ComponentModel.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.ComponentModel.Primitives.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.ComponentModel.TypeConverter.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Console.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Data.Common.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.Contracts.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.Debug.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.Process.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.StackTrace.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.Tools.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.TraceSource.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.Tracing.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Drawing.Primitives.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Dynamic.Runtime.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Globalization.Calendars.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Globalization.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Globalization.Extensions.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.Compression.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.Compression.ZipFile.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.FileSystem.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.FileSystem.Primitives.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.FileSystem.Watcher.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.IsolatedStorage.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.MemoryMappedFiles.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.Pipes.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Linq.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Linq.Expressions.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Linq.Parallel.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Linq.Queryable.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.Http.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.NameResolution.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.NetworkInformation.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.Ping.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.Primitives.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.Requests.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.Security.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.Sockets.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.WebHeaderCollection.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.WebSockets.Client.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.WebSockets.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.ObjectModel.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Reflection.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Reflection.Extensions.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Reflection.Primitives.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Resources.Reader.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Resources.ResourceManager.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Resources.Writer.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Extensions.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Handles.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.InteropServices.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Numerics.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Serialization.Formatters.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Serialization.Json.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Serialization.Primitives.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Serialization.Xml.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Security.Claims.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Security.Cryptography.Algorithms.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Security.Cryptography.Csp.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Security.Cryptography.Encoding.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Security.Cryptography.Primitives.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Security.Principal.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Security.SecureString.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Text.Encoding.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Text.Encoding.Extensions.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Text.RegularExpressions.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Overlapped.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Tasks.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Tasks.Parallel.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Thread.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.ThreadPool.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Timer.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Xml.ReaderWriter.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Xml.XDocument.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Xml.XmlDocument.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Xml.XmlSerializer.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Xml.XPath.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Xml.XPath.XDocument.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Bcl.HashCode.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Logging.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Options.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Primitives.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Npgsql.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Buffers.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Collections.Immutable.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.ComponentModel.Annotations.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Memory.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Numerics.Vectors.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Text.Encodings.Web.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Text.Json.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.ValueTuple.dll
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Bcl.HashCode.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Logging.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Options.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Primitives.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Npgsql.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Buffers.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Collections.Immutable.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Memory.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Numerics.Vectors.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Text.Encodings.Web.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Text.Json.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.ValueTuple.xml
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\obj\Debug\Server.csprojAssemblyReference.cache
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\obj\Debug\Server.exe.config
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\obj\Debug\Server.csproj.CopyComplete
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\obj\Debug\Server.exe
+e:\studying\1)P3SBD\Курсовая\P3SBD\Server\obj\Debug\Server.pdb
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Server.exe.config
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Server.exe
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Server.pdb
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Win32.Primitives.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\netstandard.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.AppContext.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Collections.Concurrent.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Collections.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Collections.NonGeneric.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Collections.Specialized.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.ComponentModel.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.ComponentModel.Primitives.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.ComponentModel.TypeConverter.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Console.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Data.Common.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.Contracts.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.Debug.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.Process.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.StackTrace.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.Tools.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.TraceSource.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.Tracing.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Drawing.Primitives.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Dynamic.Runtime.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Globalization.Calendars.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Globalization.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Globalization.Extensions.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.Compression.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.Compression.ZipFile.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.FileSystem.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.FileSystem.Primitives.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.FileSystem.Watcher.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.IsolatedStorage.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.MemoryMappedFiles.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.Pipes.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Linq.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Linq.Expressions.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Linq.Parallel.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Linq.Queryable.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.Http.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.NameResolution.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.NetworkInformation.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.Ping.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.Primitives.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.Requests.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.Security.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.Sockets.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.WebHeaderCollection.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.WebSockets.Client.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Net.WebSockets.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.ObjectModel.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Reflection.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Reflection.Extensions.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Reflection.Primitives.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Resources.Reader.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Resources.ResourceManager.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Resources.Writer.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Extensions.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Handles.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.InteropServices.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Numerics.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Serialization.Formatters.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Serialization.Json.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Serialization.Primitives.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Serialization.Xml.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Security.Claims.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Security.Cryptography.Algorithms.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Security.Cryptography.Csp.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Security.Cryptography.Encoding.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Security.Cryptography.Primitives.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Security.Principal.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Security.SecureString.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Text.Encoding.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Text.Encoding.Extensions.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Text.RegularExpressions.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Overlapped.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Tasks.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Tasks.Parallel.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Thread.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.ThreadPool.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Timer.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Xml.ReaderWriter.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Xml.XDocument.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Xml.XmlDocument.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Xml.XmlSerializer.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Xml.XPath.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Xml.XPath.XDocument.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Bcl.HashCode.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Logging.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Options.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Primitives.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Npgsql.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Buffers.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Collections.Immutable.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.ComponentModel.Annotations.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Memory.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Numerics.Vectors.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Text.Encodings.Web.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Text.Json.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.ValueTuple.dll
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Bcl.HashCode.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Logging.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Options.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Primitives.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\Npgsql.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Buffers.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Collections.Immutable.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Memory.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Numerics.Vectors.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Text.Encodings.Web.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Text.Json.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\bin\Debug\System.ValueTuple.xml
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\obj\Debug\Server.csprojAssemblyReference.cache
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\obj\Debug\Server.exe.config
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\obj\Debug\Server.csproj.CopyComplete
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\obj\Debug\Server.exe
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Server\obj\Debug\Server.pdb
+g:\Курсовая\P3SBD\Server\bin\Debug\Server.exe.config
+g:\Курсовая\P3SBD\Server\bin\Debug\Server.exe
+g:\Курсовая\P3SBD\Server\bin\Debug\Server.pdb
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Win32.Primitives.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\netstandard.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.AppContext.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Collections.Concurrent.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Collections.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Collections.NonGeneric.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Collections.Specialized.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.ComponentModel.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.ComponentModel.Primitives.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.ComponentModel.TypeConverter.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Console.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Data.Common.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.Contracts.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.Debug.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.Process.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.StackTrace.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.Tools.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.TraceSource.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.Tracing.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Drawing.Primitives.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Dynamic.Runtime.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Globalization.Calendars.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Globalization.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Globalization.Extensions.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.IO.Compression.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.IO.Compression.ZipFile.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.IO.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.IO.FileSystem.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.IO.FileSystem.Primitives.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.IO.FileSystem.Watcher.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.IO.IsolatedStorage.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.IO.MemoryMappedFiles.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.IO.Pipes.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Linq.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Linq.Expressions.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Linq.Parallel.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Linq.Queryable.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Net.Http.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Net.NameResolution.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Net.NetworkInformation.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Net.Ping.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Net.Primitives.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Net.Requests.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Net.Security.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Net.Sockets.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Net.WebHeaderCollection.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Net.WebSockets.Client.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Net.WebSockets.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.ObjectModel.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Reflection.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Reflection.Extensions.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Reflection.Primitives.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Resources.Reader.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Resources.ResourceManager.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Resources.Writer.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Extensions.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Handles.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.InteropServices.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Numerics.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Serialization.Formatters.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Serialization.Json.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Serialization.Primitives.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.Serialization.Xml.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Security.Claims.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Security.Cryptography.Algorithms.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Security.Cryptography.Csp.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Security.Cryptography.Encoding.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Security.Cryptography.Primitives.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Security.Principal.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Security.SecureString.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Text.Encoding.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Text.Encoding.Extensions.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Text.RegularExpressions.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Threading.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Overlapped.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Tasks.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Tasks.Parallel.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Thread.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Threading.ThreadPool.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Timer.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Xml.ReaderWriter.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Xml.XDocument.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Xml.XmlDocument.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Xml.XmlSerializer.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Xml.XPath.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Xml.XPath.XDocument.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Bcl.HashCode.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Logging.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Options.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Primitives.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Npgsql.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Buffers.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Collections.Immutable.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.ComponentModel.Annotations.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Memory.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Numerics.Vectors.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Text.Encodings.Web.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Text.Json.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\System.ValueTuple.dll
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Bcl.HashCode.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Logging.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Options.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\Microsoft.Extensions.Primitives.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\Npgsql.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Buffers.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Collections.Immutable.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Memory.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Numerics.Vectors.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Text.Encodings.Web.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Text.Json.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+g:\Курсовая\P3SBD\Server\bin\Debug\System.ValueTuple.xml
+g:\Курсовая\P3SBD\Server\obj\Debug\Server.csprojAssemblyReference.cache
+g:\Курсовая\P3SBD\Server\obj\Debug\Server.exe.config
+g:\Курсовая\P3SBD\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+g:\Курсовая\P3SBD\Server\obj\Debug\Server.csproj.CopyComplete
+g:\Курсовая\P3SBD\Server\obj\Debug\Server.exe
+g:\Курсовая\P3SBD\Server\obj\Debug\Server.pdb
+g:\Курсовая\P3SBD\Server\bin\Debug\Client.exe
+g:\Курсовая\P3SBD\Server\bin\Debug\Client.pdb
+g:\Курсовая\P3SBD\Server\bin\Debug\Client.exe.config

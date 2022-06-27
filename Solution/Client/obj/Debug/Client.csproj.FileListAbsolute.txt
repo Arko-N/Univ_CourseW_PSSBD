@@ -1,0 +1,44 @@
+D:\Downloads\P3SBD\Client\bin\Debug\Client.exe.config
+D:\Downloads\P3SBD\Client\bin\Debug\Client.exe
+D:\Downloads\P3SBD\Client\bin\Debug\Client.pdb
+D:\Downloads\P3SBD\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Downloads\P3SBD\Client\obj\Debug\Client.FORM_main.resources
+D:\Downloads\P3SBD\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Downloads\P3SBD\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Downloads\P3SBD\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Downloads\P3SBD\Client\obj\Debug\Client.exe
+D:\Downloads\P3SBD\Client\obj\Debug\Client.pdb
+e:\studying\1)P3SBD\Курсовая\P3SBD\Client\obj\Debug\Client.csprojAssemblyReference.cache
+e:\studying\1)P3SBD\Курсовая\P3SBD\Client\obj\Debug\Client.FORM_main.resources
+e:\studying\1)P3SBD\Курсовая\P3SBD\Client\obj\Debug\Client.Properties.Resources.resources
+e:\studying\1)P3SBD\Курсовая\P3SBD\Client\obj\Debug\Client.csproj.GenerateResource.cache
+e:\studying\1)P3SBD\Курсовая\P3SBD\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+e:\studying\1)P3SBD\Курсовая\P3SBD\Client\obj\Debug\Client.exe
+e:\studying\1)P3SBD\Курсовая\P3SBD\Client\obj\Debug\Client.pdb
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Client\bin\Debug\Client.exe.config
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Client\bin\Debug\Client.exe
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Client\bin\Debug\Client.pdb
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Client\obj\Debug\Client.csprojAssemblyReference.cache
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Client\obj\Debug\Client.FORM_main.resources
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Client\obj\Debug\Client.Properties.Resources.resources
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Client\obj\Debug\Client.csproj.GenerateResource.cache
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Client\obj\Debug\Client.exe
+d:\_ Artem's Private\___Учебное___\_ Заведения\Бакалавр\half_6\1)P3SBD\Курсовая\P3SBD\Client\obj\Debug\Client.pdb
+g:\Курсовая\P3SBD\Client\bin\Debug\Client.exe.config
+g:\Курсовая\P3SBD\Client\bin\Debug\Client.exe
+g:\Курсовая\P3SBD\Client\bin\Debug\Client.pdb
+g:\Курсовая\P3SBD\Client\obj\Debug\Client.csprojAssemblyReference.cache
+g:\Курсовая\P3SBD\Client\obj\Debug\Client.FORM_main.resources
+g:\Курсовая\P3SBD\Client\obj\Debug\Client.Properties.Resources.resources
+g:\Курсовая\P3SBD\Client\obj\Debug\Client.csproj.GenerateResource.cache
+g:\Курсовая\P3SBD\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+g:\Курсовая\P3SBD\Client\obj\Debug\Client.exe
+g:\Курсовая\P3SBD\Client\obj\Debug\Client.pdb
+g:\Курсовая\P3SBD\Client\obj\Debug\Client.FORM_authorization.resources
+g:\Курсовая\P3SBD\Client\obj\Debug\Client.FORM_menu_w.resources
+g:\Курсовая\P3SBD\Client\obj\Debug\Client.FORM_menu_d.resources
+g:\Курсовая\P3SBD\Client\obj\Debug\Client.FORM_menu_m.resources
+g:\Курсовая\P3SBD\Client\obj\Debug\Client.FORM_menu_p.resources
+g:\Курсовая\P3SBD\Client\obj\Debug\Client.FORM_t_group.resources
+g:\Курсовая\P3SBD\Client\obj\Debug\Client.FORM_diagram_AND_excel.resources
